@@ -19,3 +19,5 @@ tableData.forEach((sighting) => {
 });
 
 // Create event handler functionality for the application
+// Create button-click handler
+let button_handler = d3.select
